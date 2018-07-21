@@ -4223,3 +4223,15 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
 .img-notfound{
 	box-shadow:none;
 }
+
+.mod-notfound {
+    BORDER-RIGHT: #e1e1e1 1px solid;
+    BORDER-TOP: #e1e1e1 1px solid;
+    MARGIN-TOP: 10px;
+    BACKGROUND: #fff;
+    BORDER-LEFT: #e1e1e1 1px solid;
+    BORDER-BOTTOM: #e1e1e1 1px solid;
+    HEIGHT: 585px;
+    TEXT-ALIGN: center;
+    border-radius: 10px;
+}
