@@ -1906,7 +1906,7 @@ font-weight: 500;
 	margin:0;
 }
 .contenttext ul,.contenttext ol,.contenttext ol ol,.contenttext ol ul,.contenttext ul ol,.contenttext ul ul {
-	margin: 8px 0 8px 20px;
+	margin: 8px 0 8px 3px;
 	padding-left:20px;
 }
 .contenttext li{list-style: circle;}
