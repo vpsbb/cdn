@@ -4220,3 +4220,7 @@ a.label:hover, a.label:focus, a.badge:hover, a.badge:focus {
     bottom: 18px;
     right: 10px;
 }
+
+.alert {
+    padding: 5px;
+ }
